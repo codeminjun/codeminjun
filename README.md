@@ -10,11 +10,11 @@
 ## 🚀 Notable Projects
 - 🔹 **QuantrumAI**  
   인공지능을 활용한 주식 분석 및 추천 시스템  
-  [GitHub Repo](https://github.com/codeminjun/QuantrumAI)
+  [GitHub Repo](https://github.com/QuantrumAI)
 
 - 🔹 **Smart Email Template Assistant**  
   반복적인 이메일 작성을 자동화하는 데스크탑 앱  
-  [GitHub Repo](https://github.com/codeminjun/SmartEmailAssistant)
+  [GitHub Repo](https://github.com/SmartEmailAssistant)
 
 ## 🛠️ Tech Stack
 
@@ -47,8 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📘 Devlog
-- ✍️ [Velog @minjun24](https://velog.io/@minjun24)
-- 📖 [TIL (Today I Learned)](https://github.com/codeminjun/TIL)
+- ✍️ [Velog @minjun24]([https://velog.io/@minjun24](https://velog.io/@minj_nn/posts))
 
 ## 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koexmin@gmail.com)
