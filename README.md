@@ -14,7 +14,7 @@
 
 - 🔹 **Smart Email Template Assistant**  
   반복적인 이메일 작성을 자동화하는 데스크탑 앱  
-  [GitHub Repo]([https://github.com/SmartEmailAssistant](https://github.com/codeminjun/SmartEmailTemplateAssistant))
+  [GitHub Repo](https://github.com/codeminjun/SmartEmailTemplateAssistant)
 
 ## 🛠️ Tech Stack
 
