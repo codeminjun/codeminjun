@@ -47,7 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📘 Devlog
-- ✍️ [Velog @minjun24](https://velog.io/@minj_nn/posts)
+- ✍️ [Velog @minj_nn](https://velog.io/@minj_nn/posts)
 
 ## 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koexmin@gmail.com)
