@@ -10,11 +10,11 @@
 ## 🚀 Notable Projects
 - 🔹 **QuantrumAI**  
   인공지능을 활용한 주식 분석 및 추천 시스템  
-  [GitHub Repo](https://github.com/yourusername/QuantrumAI)
+  [GitHub Repo](https://github.com/codeminjun/QuantrumAI)
 
 - 🔹 **Smart Email Template Assistant**  
   반복적인 이메일 작성을 자동화하는 데스크탑 앱  
-  [GitHub Repo](https://github.com/yourusername/SmartEmailAssistant)
+  [GitHub Repo](https://github.com/codeminjun/SmartEmailAssistant)
 
 ## 🛠️ Tech Stack
 
@@ -39,8 +39,8 @@
 - ☁️ **클라우드** - 클라우드 컴퓨팅과 서비스 아키텍처
 
 ## 🏅 Achievements
-- 🥇 **2025 단국대학교 제로톤(Zero-thon) 최우수상**  
-  📌 프로젝트: Smart Email Template Assistant
+- 🥇 **2025 단국대학교 제로톤(Zero-thon) 신바람팀 최우수상**  
+  📌 프로젝트: 인공지능 기반 데일리 스텐드업 웹 "Blitz Q"
 
 ## 📊 GitHub Stats
 ![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=radical)
