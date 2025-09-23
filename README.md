@@ -1,139 +1,124 @@
+# 👋 안녕하세요, 김민준입니다
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=안녕하세요!+김민준입니다+👋;코드로+세상을+더+나은+곳으로+만드는+개발자;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG" />
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning%2C+Always+Growing+🌱)](https://git.io/typing-svg)
+  
+  <p align="center">
+    <a href="mailto:koexmin@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://velog.io/@minj_nn/posts">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
+    </a>
+    <a href="https://github.com/codeminjun">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </p>
+  
+</div>
+
+## 🎯 About Me
+
+> **"코드로 세상을 더 나은 곳으로 만드는 개발자"**
+
+- 🎓 **단국대학교 모바일시스템공학과** 재학중
+- 📍 Seoul, South Korea
+- 🏆 **2025 단국대학교 제로톤 최우수상** 수상 (신바람팀 - Blitz Q 프로젝트)
+- 💡 AI 기반 데일리 스탠드업 웹 개발
+- 🌱 현재 Spring, Django, 데이터베이스 심화 학습 중
+
+## 💻 Tech Stack
+
+### **Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Frameworks & Libraries**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### **Currently Learning**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/codeminjun/codeminjun/blob/main/assets/developer.gif?raw=true" width="600" alt="Developer Animation">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=dracula&hide_border=false" />
 </div>
 
----
+## 🏆 Achievements
 
-## 🧑‍💻 About Me
-
-<img align="right" src="https://github.com/codeminjun/codeminjun/blob/main/assets/coding.gif?raw=true" width="300">
-
-```typescript
-const minjun = {
-    location: "Seoul, South Korea 🇰🇷",
-    education: "단국대학교 모바일시스템공학과",
-    interests: ["AI/ML", "Backend", "Database", "Cloud"],
-    currentFocus: "Building intelligent systems",
-    lifePhilosophy: "코드로 세상을 더 나은 곳으로 만들기",
-    status: "Always learning, Always growing 🌱"
-};
-```
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)](https://python.org)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00)](https://java.com)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
-
-### 🌐 Frontend Technologies
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)](https://javascript.com)
-
-### 🌱 Currently Mastering
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C)](https://cplusplus.com)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)](https://spring.io)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)](https://djangoproject.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)](https://mysql.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)](https://mongodb.com)
-
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
 <table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🥇_2025_단국대학교_제로톤-최우수상-FFD700?style=for-the-badge&labelColor=FF6B35" alt="Award">
-<br><br>
-<b>🚀 AI 기반 데일리 스탠드업 웹</b><br>
-<i>"Blitz Q" 프로젝트 (신바람팀)</i>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🎯_Focus_Areas-AI•Backend•Database•Cloud-9146FF?style=for-the-badge&labelColor=7C3AED" alt="Focus">
-<br><br>
-<b>🧠 전문 분야 구축</b><br>
-<i>지속적인 학습과 성장</i>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E2E8F0" alt="Minjun's GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=F59E0B&currStreakLabel=A855F7" alt="GitHub Streak"/>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🥇-최우수상-gold?style=for-the-badge" alt="Award"/>
+      <br/>
+      <strong>2025 단국대학교 제로톤</strong>
+      <br/>
+      <sub>AI 기반 데일리 스탠드업 웹 "Blitz Q"</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📚-Tech_Blog-20C997?style=for-the-badge" alt="Blog"/>
+      <br/>
+      <strong>기술 블로그 운영</strong>
+      <br/>
+      <sub>개발 지식 공유 및 기록</sub>
+    </td>
+  </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E2E8F0&langs_count=8" alt="Top Languages" width="45%"/>
+## 🎯 2025 Goals
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeminjun&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" width="100%"/>
-</div>
+- [ ] Spring Boot 마스터하기
+- [ ] Django REST Framework 프로젝트 완성
+- [ ] AWS 클라우드 아키텍처 학습
+- [ ] 오픈소스 프로젝트 기여
+- [ ] 개인 프로젝트 포트폴리오 구축
 
----
+## 📝 Latest Blog Posts
 
-## 📝 Knowledge Sharing
+<!-- BLOG-POST-LIST:START -->
+- 📌 최신 블로그 포스트는 [Velog](https://velog.io/@minj_nn/posts)에서 확인하세요!
+<!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="100%">
-<img src="https://img.shields.io/badge/📚_개발_블로그-배운_것들을_꾸준히_기록하고_공유-20C997?style=for-the-badge&logo=velog&logoColor=white&labelColor=20C997" alt="Blog">
-<br><br>
-<a href="https://velog.io/@minj_nn/posts">
-<img src="https://img.shields.io/badge/Visit_My_Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
-</a>
-<br><br>
-<i>"지식은 나누면 나눌수록 커진다"</i>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 🌐 Let's Connect!
+## 🤝 Connect with Me
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koexmin@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@minj_nn/posts)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeminjun)
-
-<img src="https://komarev.com/ghpvc/?username=codeminjun&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+  
+  **함께 성장하고 싶은 개발자분들의 연락을 환영합니다!**
+  
+  📧 **Email:** koexmin@gmail.com  
+  📝 **Blog:** [velog.io/@minj_nn](https://velog.io/@minj_nn/posts)  
+  💻 **GitHub:** [github.com/codeminjun](https://github.com/codeminjun)
+  
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=🛠+꾸준히+성장하고+기록하는+개발자+🛠;Thank+you+for+visiting+my+profile!+✨;Let's+build+something+amazing+together!+🚀" alt="Footer"/>
-</div>
-
-<div align="center">
-<img src="https://github.com/codeminjun/codeminjun/blob/main/assets/wave.gif?raw=true" width="100%">
-</div>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=codeminjun&color=6366F1&style=flat-square&label=Profile+Views)
+  
+  <sub>⭐ From [codeminjun](https://github.com/codeminjun) with 💙</sub>
+  
+</di
