@@ -1,4 +1,4 @@
-# 안녕하세요 김민준입니다.
+# 👋 안녕하세요, 김민준입니다
 
 <div align="center">
   
@@ -64,17 +64,25 @@
         <br/>
         <strong>2025 단국대학교 제로톤</strong>
         <br/>
-        <sub>신바람팀 - Blitz Q 프로젝트</sub>
+        <sub>신바람팀 - Blitz Q</sub>
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/📚-Tech_Blog-20C997?style=for-the-badge" alt="Blog"/>
         <br/>
         <strong>기술 블로그 운영</strong>
         <br/>
-        <sub>개발 지식 공유 및 기록</sub>
+        <sub>개발 지식 & 기록</sub>
       </td>
     </tr>
   </table>
+</div>
+
+## 🌊 Activity
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/codeminjun/codeminjun/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
 
 ## 📝 Latest Blog Posts
