@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 김민준입니다
+# 안녕하세요 김민준입니다.
 
 <div align="center">
   
@@ -54,37 +54,28 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=dracula&hide_border=false" />
-</div>
-
 ## 🏆 Achievements
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🥇-최우수상-gold?style=for-the-badge" alt="Award"/>
-      <br/>
-      <strong>2025 단국대학교 제로톤</strong>
-      <br/>
-      <sub>신바람팀 - Blitz Q 프로젝트</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/📚-Tech_Blog-20C997?style=for-the-badge" alt="Blog"/>
-      <br/>
-      <strong>기술 블로그 운영</strong>
-      <br/>
-      <sub>개발 지식 공유 및 기록</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🥇-최우수상-gold?style=for-the-badge" alt="Award"/>
+        <br/>
+        <strong>2025 단국대학교 제로톤</strong>
+        <br/>
+        <sub>신바람팀 - Blitz Q 프로젝트</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/📚-Tech_Blog-20C997?style=for-the-badge" alt="Blog"/>
+        <br/>
+        <strong>기술 블로그 운영</strong>
+        <br/>
+        <sub>개발 지식 공유 및 기록</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📝 Latest Blog Posts
 
