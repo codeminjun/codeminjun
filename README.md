@@ -23,8 +23,10 @@
 > **"코드로 세상을 더 나은 곳으로 만드는 개발자"**
 
 - 🎓 **단국대학교 모바일시스템공학과** 재학중
+- 📊 **GPA: 4.14 / 4.5**
 - 📍 Seoul, South Korea
 - 🏆 **2025 단국대학교 제로톤 최우수상** 수상 (신바람팀 - Blitz Q 프로젝트)
+- 📜 **자격증**: 정보처리기능사, 1종 대형 운전면허
 - 🌱 현재 **React**, **Spring**, **Django**, **데이터베이스** 심화 학습 중
 
 ## 💻 Tech Stack
@@ -75,14 +77,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-## 🌊 Activity
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/codeminjun/codeminjun/output/github-contribution-grid-snake-dark.svg)
-  
 </div>
 
 ## 📝 Latest Blog Posts
