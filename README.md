@@ -27,27 +27,22 @@
 
 <h2 align="center">🏆 Achievements 🏆</h2>
 
-<div align="center" style="background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); padding: 20px; border-radius: 15px; margin-bottom: 20px;">
-  <table style="border: none; background: transparent;">
-    <tr>
-      <td align="center" width="50%" style="border: none; background: transparent;">
-        <h3>🥇 2025 단국대학교 제로톤</h3>
-        <p>
-          <strong>최우수상 수상 (신바람팀 - Blitz Q)</strong>
-          <br/>
-          <sub style="color: #b0b0b0;">단기간 집중 개발 해커톤</sub>
-        </p>
-      </td>
-      <td align="center" width="50%" style="border: none; background: transparent;">
-        <h3 style="white-space: nowrap;">🚀 2025 U300+ 성장트랙 A</h3>
-        <p>
-          <strong>최종 선발 (Quantrum AI)</strong>
-          <br/>
-          <sub style="color: #b0b0b0;">단국대학교 창업동아리</sub>
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <div style="background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 15px; width: 80%; margin-bottom: 15px;">
+    <h3>🥇 2025 단국대학교 제로톤</h3>
+    <p>
+      <strong>최우수상 수상 (신바람팀 - Blitz Q)</strong><br/>
+      <span style="font-size: 0.9em; color: #b0b0b0;">단기간 집중 개발 해커톤</span>
+    </p>
+  </div>
+
+  <div style="background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 15px; width: 80%;">
+    <h3>🚀 2025 U300+ 성장트랙 A</h3>
+    <p>
+      <strong>최종 선발 (Quantrum AI)</strong><br/>
+      <span style="font-size: 0.9em; color: #b0b0b0;">단국대학교 창업동아리</span>
+    </p>
+  </div>
 </div>
 
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
