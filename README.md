@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFAF7B,D76D77&height=250&section=header&text=codeminjun&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=25&descAlignY=62&descAlign=62&v=1" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=25&descAlignY=62&descAlign=62&fontColor=ffffff&descColor=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=25&descAlignY=62&descAlign=62&fontColor=ffffff&descColor=ffffff">
+    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=25&descAlignY=62&descAlign=62&fontColor=ffffff&descColor=ffffff">
+  </picture>
 </div>
 
 <div align="center">
@@ -29,7 +33,7 @@
 
 <h2 align="center">🏆 Achievements 🏆</h2>
 
-<div align="center" style="background-color: rgba(255, 165, 0, 0.15); padding: 20px; border-radius: 15px;">
+<div align="center">
   <table>
     <tr>
       <td align="center" width="50%" style="border: none;">
@@ -114,17 +118,21 @@
 <div align="center">
   <br>
   <div style="display: flex; justify-content: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="codeminjun's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=donut&theme=radical&hide_border=true" alt="codeminjun's Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="codeminjun's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=donut&theme=tokyonight&hide_border=true" alt="codeminjun's Top Languages" />
   </div>
   
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=radical&hide_border=true" alt="codeminjun's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Streak" />
   </div>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFAF7B,D76D77&height=100&section=footer&v=1" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=100&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer">
+    <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer">
+  </picture>
 </div>
