@@ -33,15 +33,15 @@
   <table>
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <h2>2025 단국대학교 제로톤</h2>
+        <h3>🥇 2025 단국대학교 제로톤</h3>
         <p>
-          <strong>최우수상 수상 Team 신바람 </strong>
+          <strong>최우수상 수상 (신바람팀 - Blitz Q)</strong>
           <br/>
           <sub>단기간 집중 개발 해커톤</sub>
         </p>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <h2>2025 U300+ 성장트랙 A</h2>
+        <h3 style="white-space: nowrap;">🚀 2025 U300+ 성장트랙 A</h3>
         <p>
           <strong>최종 선발 (Quantrum AI)</strong>
           <br/>
