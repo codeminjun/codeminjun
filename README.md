@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=25&descAlignY=62&descAlign=62&fontColor=ffffff&descColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=25&descAlignY=62&descAlign=62&fontColor=ffffff&descColor=ffffff">
-    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=25&descAlignY=62&descAlign=62&fontColor=ffffff&descColor=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1">
+    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1">
   </picture>
 </div>
 
@@ -33,7 +33,7 @@
 
 <h2 align="center">🏆 Achievements 🏆</h2>
 
-<div align="center">
+<div align="center" style="background-color: rgba(128, 128, 128, 0.15); padding: 20px; border-radius: 15px;">
   <table>
     <tr>
       <td align="center" width="50%" style="border: none;">
