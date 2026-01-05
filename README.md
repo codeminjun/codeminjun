@@ -6,8 +6,9 @@
   <h1>Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Minjun</a>!</h1>
   <p>
     <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
-    🎓 Dankook Univ. Mobile Systems Engineering (GPA 4.16 / 4.5)<br/>
+    🎓 Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16 / 4.5)<br/>
     📜 <b>자격증</b>: 정보처리기능사 (2025.09 취득)
+    🪖 해군 723기 수송 직별 (2026.03.16 ~ )
   </p>
   
   <br/>
@@ -44,8 +45,6 @@
     </p>
   </div>
 </div>
-
-<h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 
