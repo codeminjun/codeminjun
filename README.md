@@ -1,13 +1,9 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1">
-    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1" />
 </div>
 
 <div align="center">
-  <h3>👋 Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Min-jun</a>! 👋</h3>
+  <h1> Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Minjun</a>! </h1>
   <p>
     <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
     🎓 Dankook Univ. Mobile Systems Engineering (GPA 4.16 / 4.5)<br/>
@@ -117,39 +113,13 @@
 
 <div align="center">
   <br>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeminjun&theme=tokyonight">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeminjun&theme=solarized_light">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeminjun&theme=tokyonight" alt="codeminjun's GitHub Stats">
-    </picture>
-
-  <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeminjun&theme=tokyonight">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeminjun&theme=solarized_light">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeminjun&theme=tokyonight" alt="codeminjun's Top Languages">
-    </picture>
-    
-  </div>
-  
-  <br>
-
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=codeminjun&theme=solarized-light&hide_border=true">
-      <img src="https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Streak">
-    </picture>
-  </div>
+  <img src="https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Streak" />
 </div>
+
+<br>
 
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=100&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer">
-    <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2&height=100&section=footer" />
 </div>
