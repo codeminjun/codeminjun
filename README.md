@@ -11,6 +11,7 @@
   <p>
     <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
     🎓 Dankook Univ. Mobile Systems Engineering (GPA 4.16 / 4.5)<br/>
+    🌱 Always Learning, Always Growing
   </p>
   
   <br/>
@@ -116,13 +117,30 @@
 
 <div align="center">
   <br>
-  <div style="display: flex; justify-content: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="codeminjun's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=donut&theme=tokyonight&hide_border=true" alt="codeminjun's Top Languages" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=solarized-light&hide_border=true&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="codeminjun's GitHub Stats">
+    </picture>
+
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=solarized-light&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true" alt="codeminjun's Top Languages">
+    </picture>
+    
   </div>
   
+  <br>
+
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Streak" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=tokyonight&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=solarized-light&hide_border=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Streak">
+    </picture>
   </div>
 </div>
 
