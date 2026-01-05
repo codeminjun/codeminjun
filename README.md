@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFAF7B,D76D77&height=250&section=header&text=codeminjun&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=25&descAlignY=62&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFAF7B,D76D77&height=250&section=header&text=codeminjun&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=25&descAlignY=62&descAlign=62&v=1" />
 </div>
 
 <div align="center">
@@ -29,10 +29,10 @@
 
 <h2 align="center">🏆 Achievements 🏆</h2>
 
-<div align="center">
+<div align="center" style="background-color: rgba(255, 165, 0, 0.15); padding: 20px; border-radius: 15px;">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <h3>🥇 2025 단국대학교 제로톤</h3>
         <p>
           <strong>최우수상 수상 (신바람팀 - Blitz Q)</strong>
@@ -40,7 +40,7 @@
           <sub>단기간 집중 개발 해커톤</sub>
         </p>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <h3>🚀 2025 U300+ 성장트랙 A</h3>
         <p>
           <strong>최종 선발 (Quantrum AI)</strong>
@@ -126,5 +126,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFAF7B,D76D77&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFAF7B,D76D77&height=100&section=footer&v=1" />
 </div>
