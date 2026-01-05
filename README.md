@@ -119,13 +119,13 @@
   <br>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     
-    <picture>
+  <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=solarized-light&hide_border=true">
       <img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Stats">
     </picture>
 
-    <picture>
+  <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=solarized-light&hide_border=true">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true" alt="codeminjun's Top Languages">
