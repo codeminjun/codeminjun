@@ -6,9 +6,9 @@
   <h1>Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Minjun</a>!</h1>
   <p>
     <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
-    🎓 Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16 / 4.5)<br/>
-    📜 <b>자격증</b>: 정보처리기능사 (2025.09 취득)<br/>
-    🪖 해군 723기 수송 직별 (2026.03.16 ~ )
+     Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16 / 4.5)<br/>
+    <b>자격증</b>: 정보처리기능사 (2025.09 취득)<br/>
+     해군 723기 수송 직별 (2026.03.16 ~ )
   </p>
   
   <br/>
@@ -26,11 +26,11 @@
 
 <br/>
 
-<h2 align="center">🏆 Achievements 🏆</h2>
+<h2 align="center"> Achievements </h2>
 
 <div align="center">
   <div style="background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 15px; width: 80%; margin-bottom: 15px;">
-    <h3>🥇 2025 단국대학교 제로톤</h3>
+    <h3> 2025 단국대학교 제로톤</h3>
     <p>
       <strong>최우수상 수상 (신바람팀 - Blitz Q)</strong><br/>
       <span style="font-size: 0.9em; color: #b0b0b0;">단기간 집중 개발 해커톤</span>
@@ -38,7 +38,7 @@
   </div>
 
   <div style="background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 15px; width: 80%;">
-    <h3>🚀 2025 U300+ 성장트랙 A</h3>
+    <h3> 2025 U300+ 성장트랙 A</h3>
     <p>
       <strong>최종 선발 (Quantrum AI)</strong><br/>
       <span style="font-size: 0.9em; color: #b0b0b0;">단국대학교 창업동아리</span>
@@ -50,7 +50,7 @@
 
 <div align="center">
   <details open>
-    <summary><b>💻 Core Languages 💻</b></summary>
+    <summary><b>Core Languages</b></summary>
     <br>
     <div>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
@@ -62,7 +62,7 @@
   <br>
 
   <details open>
-    <summary><b>🌐 Web Development 🌐</b></summary>
+    <summary><b>Web Development</b></summary>
     <br>
     <div>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
@@ -74,7 +74,7 @@
   <br>
 
   <details open>
-    <summary><b>⚡ Frameworks & Libraries ⚡</b></summary>
+    <summary><b> Frameworks & Libraries </b></summary>
     <br>
     <div>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
@@ -85,7 +85,7 @@
   <br>
 
   <details open>
-    <summary><b>💾 Database & Tools 💾</b></summary>
+    <summary><b>Database & Tools</b></summary>
     <br>
     <div>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
