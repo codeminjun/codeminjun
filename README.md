@@ -35,7 +35,7 @@
       <td align="center" width="50%" style="border: none;">
         <h3>2025 단국대학교 제로톤</h3>
         <p>
-          <strong>최우수상 수상 (신바람팀 - Blitz Q)</strong>
+          <strong>최우수상 수상 Team 신바람 </strong>
           <br/>
           <sub>단기간 집중 개발 해커톤</sub>
         </p>
