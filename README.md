@@ -7,11 +7,10 @@
 </div>
 
 <div align="center">
-  <h3>👋 Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Min-jun</a>! 👋</h3>
+  <h2> Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Min-jun</a>! </h2>
   <p>
     <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
     🎓 Dankook Univ. Mobile Systems Engineering (GPA 4.16 / 4.5)<br/>
-    🌱 Always Learning, Always Growing
   </p>
   
   <br/>
