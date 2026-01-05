@@ -1,13 +1,13 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1](https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1)">
-    <source media="(prefers-color-scheme: light)" srcset="[https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1](https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1)">
-    <img alt="header" src="[https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1](https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1">
+    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1">
   </picture>
 </div>
 
 <div align="center">
-  <h1> Hello! I'm <a href="[https://github.com/codeminjun](https://github.com/codeminjun)" target="_blank">Kim Minjun</a>! </h1>
+  <h1>Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Minjun</a>! </h1>
   <p>
     <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
     🎓 Dankook Univ. Mobile Systems Engineering (GPA 4.16 / 4.5)<br/>
@@ -17,13 +17,13 @@
   <br/>
 
   <a href="mailto:koexmin@gmail.com">
-    <img src="[https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://velog.io/@minj_nn/posts](https://velog.io/@minj_nn/posts)">
-    <img src="[https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)" />
+  <a href="https://velog.io/@minj_nn/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
   </a>
-  <a href="[https://github.com/codeminjun](https://github.com/codeminjun)">
-    <img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)" />
+  <a href="https://github.com/codeminjun">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -65,10 +65,10 @@
 <br>
 <div align="center">
   <p>
-    <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   </p>
 </div>
 </details>
@@ -78,10 +78,10 @@
 <br>
 <div align="center">
   <p>
-    <img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </p>
 </div>
 </details>
@@ -91,9 +91,9 @@
 <br>
 <div align="center">
   <p>
-    <img src="[https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   </p>
 </div>
 </details>
@@ -103,10 +103,10 @@
 <br>
 <div align="center">
   <p>
-    <img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)"/>&nbsp;
-    <img src="[https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </p>
 </div>
 </details>
@@ -120,15 +120,15 @@
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true)">
-      <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=solarized-light&hide_border=true](https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=solarized-light&hide_border=true)">
-      <img src="[https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true)" alt="codeminjun's GitHub Stats">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=solarized-light&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Stats">
     </picture>
 
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true)">
-      <source media="(prefers-color-scheme: light)" srcset="[https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=solarized-light&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=solarized-light&hide_border=true)">
-      <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true)" alt="codeminjun's Top Languages">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=solarized-light&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true" alt="codeminjun's Top Languages">
     </picture>
     
   </div>
@@ -137,9 +137,9 @@
 
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="[https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true)">
-      <source media="(prefers-color-scheme: light)" srcset="[https://streak-stats.demolab.com?user=codeminjun&theme=solarized-light&hide_border=true](https://streak-stats.demolab.com?user=codeminjun&theme=solarized-light&hide_border=true)">
-      <img src="[https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true)" alt="codeminjun's GitHub Streak">
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=codeminjun&theme=solarized-light&hide_border=true">
+      <img src="https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Streak">
     </picture>
   </div>
 </div>
@@ -148,8 +148,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="[https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=100&section=footer)">
-    <source media="(prefers-color-scheme: light)" srcset="[https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer)">
-    <img alt="footer" src="[https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=4A00E0,8E2DE2&height=100&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer">
+    <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=FF9966,FF5E62&height=100&section=footer">
   </picture>
 </div>
