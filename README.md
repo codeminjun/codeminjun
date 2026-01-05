@@ -47,6 +47,8 @@
 
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 
+<h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
+
 <div align="center">
   <details open>
     <summary><b>💻 Core Languages 💻</b></summary>
@@ -87,9 +89,8 @@
     <summary><b>💾 Database & Tools 💾</b></summary>
     <br>
     <div>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     </div>
   </details>
