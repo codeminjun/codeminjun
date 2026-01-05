@@ -7,7 +7,7 @@
   <p>
     <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
     🎓 Dankook Univ. Mobile Systems Engineering (GPA 4.16 / 4.5)<br/>
-    🌱 Always Learning, Always Growing
+    📜 **자격증**: 정보처리기능사 (2025.09 취득)
   </p>
   
   <br/>
@@ -33,7 +33,7 @@
   <table>
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <h3>🥇 2025 단국대학교 제로톤</h3>
+        <h3>2025 단국대학교 제로톤</h3>
         <p>
           <strong>최우수상 수상 (신바람팀 - Blitz Q)</strong>
           <br/>
@@ -41,7 +41,7 @@
         </p>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <h3>🚀 2025 U300+ 성장트랙 A</h3>
+        <h3>2025 U300+ 성장트랙 A</h3>
         <p>
           <strong>최종 선발 (Quantrum AI)</strong>
           <br/>
@@ -108,13 +108,6 @@
 </details>
 
 ---
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=codeminjun&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Streak" />
-</div>
 
 <br>
 
