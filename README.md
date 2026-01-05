@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h1>Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Minjun</a>! </h1>
+  <h3>👋 Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Min-jun</a>! 👋</h3>
   <p>
     <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
     🎓 Dankook Univ. Mobile Systems Engineering (GPA 4.16 / 4.5)<br/>
@@ -113,24 +113,26 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
 <div align="center">
-  <h2 align="center">📊 GitHub Stats 📊</h2>
   <br>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=solarized-light&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=tokyonight&hide_border=true" alt="codeminjun's GitHub Stats">
-  </picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeminjun&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeminjun&theme=solarized_light">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeminjun&theme=tokyonight" alt="codeminjun's GitHub Stats">
+    </picture>
 
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=solarized-light&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=tokyonight&hide_border=true" alt="codeminjun's Top Languages">
-  </picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeminjun&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeminjun&theme=solarized_light">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeminjun&theme=tokyonight" alt="codeminjun's Top Languages">
+    </picture>
+    
   </div>
-
+  
   <br>
 
   <div align="center">
