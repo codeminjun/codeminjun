@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Min-jun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Minjun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1" />
 </div>
 
 <div align="center">
-  <h1>👋 Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Min-jun</a>!</h1>
+  <h1>Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Minjun</a>!</h1>
   <p>
     <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
     🎓 Dankook Univ. Mobile Systems Engineering (GPA 4.16 / 4.5)<br/>
@@ -33,7 +33,7 @@
   <table>
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <h3>2025 단국대학교 제로톤</h3>
+        <h2>2025 단국대학교 제로톤</h2>
         <p>
           <strong>최우수상 수상 Team 신바람 </strong>
           <br/>
@@ -41,7 +41,7 @@
         </p>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <h3>2025 U300+ 성장트랙 A</h3>
+        <h2>2025 U300+ 성장트랙 A</h2>
         <p>
           <strong>최종 선발 (Quantrum AI)</strong>
           <br/>
