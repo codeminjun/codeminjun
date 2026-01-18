@@ -3,60 +3,90 @@
 </div>
 
 <div align="center">
-  
+
   **"코드로 세상을 더 나은 곳으로 만드는 개발자"**
-  
-  📚 Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16/4.5)  
-  📜 정보처리기능사 (2025.09)　⚓ 해군 723기 (2026.03~)
+
+  Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16/4.5)
+  정보처리기능사 (2025.09)
+
+  Republic of Korea Navy, Class 723 (2026.03~)
 
   <a href="mailto:koexmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@minj_nn/posts"><img src="https://img.shields.io/badge/Velog-FF5722?style=flat-square&logo=velog&logoColor=white"/></a>
   <a href="https://github.com/codeminjun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=codeminjun&style=flat-square&color=ED8F03"/>
+
 </div>
 
 ---
 
-### 🏆 Achievements
-| 🥇 2025 단국대 제로톤 | 🚀 2025 U300+ 성장트랙 A |
+<div align="center">
+
+### Achievements
+
+| 2025 단국대 제로톤 | 2025 U300+ 성장트랙 A |
 |:---:|:---:|
-| **최우수상** (신바람팀 - Blitz Q) | **최종선발** (Quantrum AI) |
+| **최우수상** | **최종선발** |
+| 신바람팀 - Blitz Q | Quantrum AI |
 
----
-
-### 🌾 Contribution Garden
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 ---
 
-### 🐍 Snake Animation
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeminjun/codeminjun/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeminjun/codeminjun/output/github-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/codeminjun/codeminjun/output/github-snake.svg" width="100%">
-  </picture>
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=ED8F03&icon_color=FFB75E&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=ED8F03&text_color=ffffff" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=gruvbox&hide_border=true&background=00000000&ring=ED8F03&fire=FFB75E&currStreakLabel=ffffff"/>
+
 </div>
 
 ---
 
-### 🛠 Tech Stack
 <div align="center">
-  
-  **Languages**  
-  <img src="https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C/C++-ED8F03?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFB75E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
-  **Frameworks & Tools**  
-  <img src="https://img.shields.io/badge/React-FF8C00?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-FF6B00?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-ED8F03?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-FFB75E?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF8C00?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=codeminjun&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Contribution Garden
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Tech Stack
+
+**Languages**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**Frameworks & Tools**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
