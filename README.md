@@ -38,22 +38,17 @@ Republic of Korea Navy, Class 723 (2026.03~)
 
 ### GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=default&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=default&hide_border=true" height="165"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=default&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=default&hide_border=true" height="165"/>
-</picture>
+<a href="https://github.com/codeminjun">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117#gh-dark-mode-only" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117#gh-dark-mode-only" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=default&hide_border=true#gh-light-mode-only" height="165"/>
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=codeminjun&theme=dark&hide_border=true&background=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=codeminjun&theme=default&hide_border=true"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=codeminjun&theme=default&hide_border=true"/>
-</picture>
+<a href="https://github.com/codeminjun">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=codeminjun&theme=dark&hide_border=true&background=0d1117#gh-dark-mode-only"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=codeminjun&theme=default&hide_border=true#gh-light-mode-only"/>
+</a>
 
 </div>
 
@@ -84,11 +79,8 @@ Republic of Korea Navy, Class 723 (2026.03~)
 
 ### Contribution Garden
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg"/>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
-</picture>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" width="100%"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="100%"/>
 
 </div>
 
