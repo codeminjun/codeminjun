@@ -45,7 +45,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=codeminjun&theme=dark&hide_border=true&background=0d1117"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=codeminjun&theme=dark&hide_border=true&background=0d1117"/>
 
 </div>
 
@@ -55,7 +55,7 @@
 
 ### Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=codeminjun&theme=darkhub&no-frame=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codeminjun&theme=onedark&no-frame=true&no-bg=true&column=4&row=2"/>
 
 </div>
 
