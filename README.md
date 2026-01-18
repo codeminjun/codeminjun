@@ -76,8 +76,10 @@ Republic of Korea Navy, Class 723 (2026.03~)
 
 ### Contribution Garden
 
-![3D Contrib Dark](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
-![3D Contrib Light](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+<a href="https://github.com/codeminjun">
+  <img src="https://raw.githubusercontent.com/codeminjun/codeminjun/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" width="100%"/>
+  <img src="https://raw.githubusercontent.com/codeminjun/codeminjun/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" width="100%"/>
+</a>
 
 </div>
 
