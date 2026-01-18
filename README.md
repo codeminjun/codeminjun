@@ -4,20 +4,18 @@
 
 <div align="center">
 
-  **"코드로 세상을 더 나은 곳으로 만드는 개발자"**
+**"코드로 세상을 더 나은 곳으로 만드는 개발자"**
 
-  Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16/4.5)
-  정보처리기능사 (2025.09)
+Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16/4.5)
+정보처리기능사 (2025.09)
 
-  Republic of Korea Navy, Class 723 (2026.03~)
+Republic of Korea Navy, Class 723 (2026.03~)
 
-  <a href="mailto:koexmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@minj_nn/posts"><img src="https://img.shields.io/badge/Velog-FF5722?style=flat-square&logo=velog&logoColor=white"/></a>
-  <a href="https://github.com/codeminjun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="mailto:koexmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://velog.io/@minj_nn/posts"><img src="https://img.shields.io/badge/Velog-FF5722?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://github.com/codeminjun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=codeminjun&style=flat-square&color=ED8F03"/>
+<img src="https://komarev.com/ghpvc/?username=codeminjun&style=flat-square&color=ED8F03"/>
 
 </div>
 
@@ -43,29 +41,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
 
-<br/>
-
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=codeminjun&theme=dark&hide_border=true&background=0d1117"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=codeminjun&theme=onedark&no-frame=true&no-bg=true&column=4&row=2"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Contribution Garden
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
@@ -87,6 +63,16 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Contribution Garden
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
