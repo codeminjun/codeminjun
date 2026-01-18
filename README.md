@@ -40,12 +40,12 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=ED8F03&icon_color=FFB75E&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000&title_color=ED8F03&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codeminjun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeminjun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=codeminjun&theme=gruvbox&hide_border=true&background=00000000&ring=ED8F03&fire=FFB75E&currStreakLabel=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=codeminjun&theme=dark&hide_border=true&background=0d1117"/>
 
 </div>
 
@@ -55,7 +55,7 @@
 
 ### Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=codeminjun&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=codeminjun&theme=darkhub&no-frame=true&column=7"/>
 
 </div>
 
