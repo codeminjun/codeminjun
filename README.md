@@ -1,102 +1,67 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB75E,ED8F03&height=250&section=header&text=codeminjun&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Passionate%20Developer%20Kim%20Minjun&descFontSize=20&descAlignY=60&descAlign=60&descColor=ffffff&rebuild=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB75E,ED8F03&height=200&section=header&text=codeminjun&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Passionate%20Developer&descFontSize=18&descAlignY=55&descColor=ffffff" />
 </div>
 
 <div align="center">
-  <h1>Hello! I'm <a href="https://github.com/codeminjun" target="_blank">Kim Minjun</a>!</h1>
-  <p>
-    <b>"코드로 세상을 더 나은 곳으로 만드는 개발자"</b><br/>
-     Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16 / 4.5)<br/>
-    <b>자격증</b>: 정보처리기능사 (2025.09 취득)<br/>
-     해군 723기 수송 직별 (2026.03.16 ~ )
-  </p>
   
-  <br/>
+  **"코드로 세상을 더 나은 곳으로 만드는 개발자"**
+  
+  📚 Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16/4.5)  
+  📜 정보처리기능사 (2025.09)　⚓ 해군 723기 (2026.03~)
 
-  <a href="mailto:koexmin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://velog.io/@minj_nn/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" />
-  </a>
-  <a href="https://github.com/codeminjun">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:koexmin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@minj_nn/posts"><img src="https://img.shields.io/badge/Velog-FF5722?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://github.com/codeminjun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
 </div>
 
-<br/>
+---
 
-<h2 align="center"> Achievements </h2>
+### 🏆 Achievements
+| 🥇 2025 단국대 제로톤 | 🚀 2025 U300+ 성장트랙 A |
+|:---:|:---:|
+| **최우수상** (신바람팀 - Blitz Q) | **최종선발** (Quantrum AI) |
 
+---
+
+### 🌾 Contribution Garden
 <div align="center">
-  <div style="background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 15px; width: 80%; margin-bottom: 15px;">
-    <h3> 2025 단국대학교 제로톤</h3>
-    <p>
-      <strong>최우수상 수상 (신바람팀 - Blitz Q)</strong><br/>
-      <span style="font-size: 0.9em; color: #b0b0b0;">단기간 집중 개발 해커톤</span>
-    </p>
-  </div>
-
-  <div style="background-color: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 15px; width: 80%;">
-    <h3> 2025 U300+ 성장트랙 A</h3>
-    <p>
-      <strong>최종 선발 (Quantrum AI)</strong><br/>
-      <span style="font-size: 0.9em; color: #b0b0b0;">단국대학교 창업동아리</span>
-    </p>
-  </div>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
-<h2 align="center"> Tech Stack & Tools </h2>
+---
 
+### 🐍 Snake Animation
 <div align="center">
-  <details open>
-    <summary><b>Core Languages</b></summary>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    </div>
-  </details>
-  <br>
-
-  <details open>
-    <summary><b>Web Development</b></summary>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-    </div>
-  </details>
-  <br>
-
-  <details open>
-    <summary><b> Frameworks & Libraries </b></summary>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-    </div>
-  </details>
-  <br>
-
-  <details open>
-    <summary><b>Database & Tools</b></summary>
-    <br>
-    <div>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    </div>
-  </details>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeminjun/codeminjun/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeminjun/codeminjun/output/github-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/codeminjun/codeminjun/output/github-snake.svg" width="100%">
+  </picture>
 </div>
 
-<br/>
+---
+
+### 🛠 Tech Stack
+<div align="center">
+  
+  **Languages**  
+  <img src="https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FF6B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-ED8F03?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFB75E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  **Frameworks & Tools**  
+  <img src="https://img.shields.io/badge/React-FF8C00?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-FF6B00?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-ED8F03?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-FFB75E?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF8C00?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB75E,ED8F03&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFB75E,ED8F03&height=80&section=footer"/>
 </div>
