@@ -45,7 +45,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codeminjun&theme=gruvbox&hide_border=true&background=00000000&ring=ED8F03&fire=FFB75E&currStreakLabel=ffffff"/>
+<img src="https://streak-stats.demolab.com/?user=codeminjun&theme=gruvbox&hide_border=true&background=00000000&ring=ED8F03&fire=FFB75E&currStreakLabel=ffffff"/>
 
 </div>
 
