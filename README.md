@@ -76,11 +76,8 @@ Republic of Korea Navy, Class 723 (2026.03~)
 
 ### Contribution Garden
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg"/>
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
-</picture>
+![3D Contrib Dark](./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+![3D Contrib Light](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
 
 </div>
 
