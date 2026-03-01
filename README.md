@@ -7,7 +7,7 @@
 **"코드로 세상을 더 나은 곳으로 만드는 개발자"**
 
 Dankook Univ. Mobile Systems Engineering 2024 (GPA 4.16/4.5)
-정보처리기능사 (2025.09)
+프로그래밍기능사(전 정보처리기능사) (2025.09)
 
 Republic of Korea Navy, Class 723 (2026.03~)
 
